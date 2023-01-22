@@ -1,1 +1,1 @@
-git checkout Welcome into the new world.
+Welcome into the new world.
